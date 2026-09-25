@@ -45,11 +45,6 @@ A weighted rule-based expert system. The feels-like temperature is adjusted for 
 ## Future scope
 Decision-tree model trained on user feedback, wardrobe inventory, hourly forecast, LLM-written advice, offline PWA.
 
-## Team
-- Your name (Team lead)
-- Member two
-- Member three
-
 Department of Computer Science and Engineering.
 
 Weather data by [Open-Meteo](https://open-meteo.com/).
